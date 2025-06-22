@@ -32,10 +32,10 @@ This game was guided by the [Tetris Game Tutorial by freeCodeCamp](https://www.y
 ## 🖼️ Screenshots
 
 ### Gameplay  
-![Gameplay](images/Display.png)
+![Gameplay](Images/Display.png)
 
 ### Tetromino Preview  
-![Tetromino](images/How_the_tetromino_works.png)
+![Tetromino Working](Images/How_the_tetromino_works.png)
 
 ---
 
